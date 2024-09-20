@@ -1,0 +1,41 @@
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\Library Project.exe
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\Library Project.deps.json
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\Library Project.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\Library Project.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\Library Project.pdb
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library_Project.Properties.Resources.resources
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library Project.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library Project.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library Project.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library Project.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library Project.sourcelink.json
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library Project.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\refint\Library Project.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library Project.pdb
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library Project.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\ref\Library Project.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library_Project.INFO_Livro.resources
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library_Project.INFO_Unidade.resources
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library_Project.TELA_ReservaNegada.resources
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library_Project.TELA_Reserva_feita.resources
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library_Project.TELA_Perg_Frequentes.resources
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library_Project.TELA_Reserva_Cance_Usuario.resources
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library Project.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library .4639BBD5.Up2Date
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library_Project.Form1.resources
+C:\Users\Aluno\Documents\GitHub\Library_Project\Library Project\Library Project\obj\Debug\net8.0-windows\Library_Project.FrmCatalogo.resources

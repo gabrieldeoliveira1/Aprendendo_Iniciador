@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCatalogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INFO_Livro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INFO_Unidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TELA_Perg_Frequentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TELA_ReservaNegada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TELA_Reserva_Cance_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TELA_Reserva_Feita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
